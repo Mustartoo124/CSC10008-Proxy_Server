@@ -1,0 +1,4 @@
+﻿  Utility.cpp
+C:\Users\giaba\OneDrive\Documents\Courses\Computer_Networking\Socket Project\Project\Test\Proxy\Utility.cpp(200,28): warning C4267: '=': conversion from 'size_t' to 'ULONG', possible loss of data
+C:\Users\giaba\OneDrive\Documents\Courses\Computer_Networking\Socket Project\Project\Test\Proxy\Utility.cpp(354,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Proxy.vcxproj -> C:\Users\giaba\OneDrive\Documents\Courses\Computer_Networking\Socket Project\Project\Test\Proxy\x64\Debug\Proxy.exe
